@@ -1,6 +1,6 @@
 # Extra Time assignment
 
-You can find the links underneath. Are the links I used through this course and I tried to `||` did implement.
+This is an extra assignment where I table all my extra hours i clocked in for this course. You can find the links underneath. Are the links I used through this course and I tried to `||` did implement.
 
 ### Links
 
@@ -59,3 +59,7 @@ D3.js How Nests Work | [d3 nest](http://bl.ocks.org/phoebebright/raw/3176159/) |
 D3.js API docs | Readme/API refrence doc | 4
 Helping Nick | Being the Rubber Duck 🦆 | 2
 Reading [Simpson, Kyle. YDKJS: ES6 & Beyond. O’Reilly Media, 2016](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond) | Learning about ES6 | 3 (still reading)
+
+
+--------------------------
+Vincent Kempers 👨🏽‍💻
